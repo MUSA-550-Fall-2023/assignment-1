@@ -61,7 +61,7 @@ repository.
 
 The invitation link for this week is:
 
-
+[https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
 
 If you do not have a GitHub account yet, you should be prompted to make an account. After clicking on this link, GitHub will create a new private repo with permissions such that only you and the instructors can view the commits.
 
