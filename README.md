@@ -66,9 +66,9 @@ repository.
 The invitation link depends on your section. For this assignments, the links are:
 
 
-> **Section 401**: [https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
+> **Section 401**: [https://classroom.github.com/a/jpzX7AF4](https://classroom.github.com/a/jpzX7AF4)
 >
-> **Section 402**: [https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
+> **Section 402**: [https://classroom.github.com/a/CGz9BQNG](https://classroom.github.com/a/CGz9BQNG)
 
 If you do not have a GitHub account yet, you should be prompted to make an account. After clicking on this link, GitHub will create a new private repo with permissions such that only you and the instructors can view the commits.
 
