@@ -1,7 +1,11 @@
 # Assignment #1
 
 
-### Due Date: Wednesday, September 20 at 11:59 PM
+## Due Dates
+
+> **Section 401:** Wednesday, September 20 at 11:59 PM
+> 
+> **Section 402:** Thursday, September 14 at 11:59 PM
 
 This week's assignment will be broken into two parts:
 
@@ -23,7 +27,7 @@ If you've successfully followed the installation guide, you should be able to la
 JupyterLab by running `jupyter lab` (after activating the course environment) from the command line. 
 This should launch the [JupyterLab
 dashboard](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).
-Now you can launch the [assignment notebook](assignment-1.ipynb)
+Now you can launch the assignment notebook "assignment-1.ipynb"
 and get started on the homework!
 
 The notebook will execute code from the current working directory (the folder
@@ -51,7 +55,7 @@ In part #2, you will explore the Donut Effect for home values in different parts
 
 ### Submission
 
-**Note:** Be sure to read the documentation for assignment [guidelines](https://musa-550-fall-2023.github.io/assignment/#guidelines) and [submission](https://musa-550-fall-2023.github.io/assignment/#submission).
+**Note:** Be sure to read the documentation for assignment [guidelines](https://musa-550-fall-2023.github.io/assignment/overview.html#guidelines) and [submission](https://musa-550-fall-2023.github.io/assignment/overview.html#submission).
 
 You will submit your assignment through GitHub. For each assignment, I will
 provide a GitHub link that can be used to create a new repository. Each student
@@ -59,9 +63,12 @@ will have their own private repository on GitHub where the assignment can be
 submitted. Only the student and instructors will have access to the private
 repository.
 
-The invitation link for this week is:
+The invitation link depends on your section. For this assignments, the links are:
 
-[https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
+
+> **Section 401**: [https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
+>
+> **Section 402**: [https://classroom.github.com/a/MkVE9Lb0](https://classroom.github.com/a/MkVE9Lb0)
 
 If you do not have a GitHub account yet, you should be prompted to make an account. After clicking on this link, GitHub will create a new private repo with permissions such that only you and the instructors can view the commits.
 
@@ -69,4 +76,4 @@ Your assignment should be added to this newly crearted GitHub repository before 
 
 **Important**: Files should be committed to the newly created private repository (after following the above link) and _not_ to your forked version of the [assignment-1](https://github.com/MUSA-550-Fall-2023/assignment-1) repository.
 
-**Your Jupyter notebook should be submitted to your private repository by the deadline, 11:59 PM on 9/20.**
+**Your Jupyter notebook should be submitted to your private repository by the deadline.**
