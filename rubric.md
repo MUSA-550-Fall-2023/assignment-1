@@ -3,7 +3,7 @@
 Please include your name at the top of the submitted notebook.
 
 **Important:** Your notebooks should be a polished finished product. See
-the [assignment guidelines](https://musa-550-fall-2023.github.io/assignment/#guidelines)
+the [assignment guidelines](https://musa-550-fall-2023.github.io/assignment/overview.html#guidelines)
 for more info.
 
 ## Rubric
